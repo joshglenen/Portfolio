@@ -1,6 +1,6 @@
 ## Welcome
 
-Thank you for visiting my portfolio. This is not intended to be a comprehenisive resume. Here I will upload open source projects I have completed as well as describe my past accomplishements. If you would like to know more about me or view my resume, visit [linkedin.](https://www.linkedin.com/in/joshglenen/).
+Thank you for visiting my portfolio. This is not intended to be a comprehenisive resume. Here I will upload open source projects I have completed as well as describe my past accomplishements. If you would like to know more about me or view my resume, visit [linkedin.](https://www.linkedin.com/in/joshglenen/)
 
 <center>
 <a href="#Capstone">My C# Projects</a>
@@ -138,13 +138,14 @@ Talking Clock: [Link](https://github.com/joshglenen/2017-Projects/blob/master/Ta
             synthesizer.Rate = 1;     // -10...10
             synthesizer.SpeakAsync(String);
         } //Synthesizes string into audio
+        
 ```
+
 </details>
 <!---------------------------------------------------------------------->
 
 
 Notify Me: [No Link](https://example.com)
-
 
 <details> 
   <summary>View Main Class</summary>
@@ -154,6 +155,7 @@ Notify Me: [No Link](https://example.com)
 Code Not Availible
 
 ```
+
 </details>
 
 <a name = "Capstone">
