@@ -21,8 +21,7 @@ Talking Clock: [Link](https://github.com/joshglenen/2017-Projects/blob/master/Ta
 <details> 
   <summary>View Main Class</summary>
   
-```
-markdown
+```markdown
         
         //Global Timer
         Timer timer = new Timer();
@@ -142,10 +141,8 @@ markdown
         } //Synthesizes string into audio
         
 ```
-
 </details>
 <!---------------------------------------------------------------------->
-
 
 
 Notify Me: [No Link](https://example.com)
@@ -158,9 +155,7 @@ Notify Me: [No Link](https://example.com)
 Code Not Availible
 
 ```
-
 </details>
-
 
 
 <a name = "Capstone">
