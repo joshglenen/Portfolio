@@ -6,6 +6,7 @@ Thank you for visiting my portfolio. This is not intended to be a comprehenisive
 <a href="#Capstone">My C# Projects</a>
 &nbsp;
 </center>
+
 <center>
 <a href="#Capstone">My Capstone Project</a>
 &nbsp;
@@ -20,7 +21,8 @@ Talking Clock: [Link](https://github.com/joshglenen/2017-Projects/blob/master/Ta
 <details> 
   <summary>View Main Class</summary>
   
-```markdown
+```
+markdown
         
         //Global Timer
         Timer timer = new Timer();
@@ -145,6 +147,7 @@ Talking Clock: [Link](https://github.com/joshglenen/2017-Projects/blob/master/Ta
 <!---------------------------------------------------------------------->
 
 
+
 Notify Me: [No Link](https://example.com)
 
 <details> 
@@ -157,6 +160,8 @@ Code Not Availible
 ```
 
 </details>
+
+
 
 <a name = "Capstone">
 
