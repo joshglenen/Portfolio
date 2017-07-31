@@ -6,11 +6,12 @@ Thank you for visiting my _portfolio_. This is not intended to be a comprehenisi
 
 **Talking Clock:** [Link](https://github.com/joshglenen/2017-Projects/blob/master/Talk_Clk_Portable.zip)
   
-  `A simple _lightweight_ system tray application for Windows 10 that announces the hour every hour.`
+`A simple _lightweight_ system tray application for Windows 10 that announces the hour every hour.`
 
-**Notify Me:** [No Link](https://example.com)
+**Notify Me:** [Link](https://example.com)
 
-  `Another system tray application that builds off of "Talking Clock". This low resource application allows you to create custom and       recurring notifications for Windows 10 with ease.`
+`Another system tray application that builds off of "Talking Clock". This low resource application allows you to create custom and       recurring notifications for Windows 10 with ease.`
+
 
 ### My Capstone Project
 
