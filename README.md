@@ -1,6 +1,6 @@
 ## Welcome
 
-Thank you for visiting my _portfolio_. This is not intended to be a comprehenisive resume. Here I will upload open source projects I have completed as well as describe my past accomplishements. If you would like to know more about me or view my resume, visit [linkedin.](https://www.linkedin.com/in/joshglenen/)
+Thank you for visiting my portfolio. _This is not intended to be a comprehenisive resume._ Here I will upload open source projects I have completed as well as describe my past accomplishements. If you would like to know more about me or view my resume, visit [linkedin.](https://www.linkedin.com/in/joshglenen/)
 
 ### My C# Projects
 
