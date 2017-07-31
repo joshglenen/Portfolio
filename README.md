@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Portfolio of Josh Glenen
 
-You can use the [editor on GitHub](https://github.com/joshglenen/2017-Projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thank you for visiting my portfolio. This is not intended to be a comprehenisive resume. Here I will upload open source projects I have completed as well as describe my past accomplishements. If you would like to knwo more about me or view my resume, you may contact me at linkedin.com/in/joshglenen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### C# Projects
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Talking Clock: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ```markdown
-Syntax highlighted code block
+Code Sample #1
+```
+Notify Me: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```markdown
+Code Sample #2
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Capstone Project
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joshglenen/2017-Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My capstone project was
