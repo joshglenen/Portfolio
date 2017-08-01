@@ -24,10 +24,18 @@ Other deliverables were to create a working prototype, test its performance, and
 <p align="center"> 
 <img src="Capstone Project/image001.png">
 </p>
-<img src="Capstone Project/image003.png" class="img-responsive" alt="" />
-<img src="Capstone Project/image005.png" class="img-responsive" alt="" />
-<img src="Capstone Project/image007.png" class="img-responsive" alt="" />
-<img src="Capstone Project/image009.png" class="img-responsive" alt="" />
+<p align="center"> 
+<img src="Capstone Project/image003.png">
+</p>
+<p align="center"> 
+<img src="Capstone Project/image007.png">
+</p>
+<p align="center"> 
+<img src="Capstone Project/image005.png">
+</p>
+<p align="center"> 
+<img src="Capstone Project/image009.png">
+</p>
 
 An android app was also created and can be found by clicking this **[Link](https://play.google.com/store/apps/details?id=tartanrehab.timeoutbutton&hl=en).** This application was my focus on the project along with research and circuit design. The application will detect the BLE IC when the prototype is plugged in and will provide the option to connect. Once connected, a trainer could trigger an alarm or stop the machine. During testing, it was found that the machines could take up to a meter to stop at top speed; however, this also depended on the manufacturer and the controller's programming. This means that the deceleration of each machine would require a technician to alter the programming which is specific to each manufacturer. Once stopped and the danger averted, the prototype automatically returns the control to the machine's user to operate as normal.
 
