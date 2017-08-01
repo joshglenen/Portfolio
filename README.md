@@ -21,25 +21,11 @@ My responsibility on the project involved producing the code to allow the custom
 
 Other deliverables were to create a working prototype, test its performance, and access the market potential. Together, my team successfully created a $30 prototype which was 6x3x3 cubic centimeters and plugged into the charging port that is standard in most but not all powered wheelchairs and scooters. The cost of the prototype does not include assembly or sales costs; however, mass production would greatly reduce the cost of the parts. This device fed off the machines built in power supply and consumed a maximum of 0.4W. This consumption could be lowered to an average of 0.1W by using a different voltage converter that adds another 3$ on the manufacturing price. The power consumption was deemed to be insignificant due to the size of conventional powered wheelchair batteries. Below are pictures of the 3D case which holds the modified embedded system as well as our final simplified circuit diagram.
 
-<img src="Capstone Project/image001.png" alt="hi" class="inline" 
-    margin-left: auto;
-    margin-right: auto; />
-    
-<img src="Capstone Project/image003.png" alt="hi" class="inline"
-    margin-left: auto;
-    margin-right: auto; />
-    
-<img src="Capstone Project/image005.png" alt="hi" class="inline"
-    margin-left: auto;
-    margin-right: auto; />
-    
-<img src="Capstone Project/image007.png" alt="hi" class="inline"
-    margin-left: auto;
-    margin-right: auto; />
-    
-<img src="Capstone Project/image009.png" alt="hi" class="inline"
-    margin-left: auto;
-    margin-right: auto; />
+<img src="Capstone Project/image001.png" class="img-responsive" alt="" />
+<img src="Capstone Project/image003.png" class="img-responsive" alt="" />
+<img src="Capstone Project/image005.png" class="img-responsive" alt="" />
+<img src="Capstone Project/image007.png" class="img-responsive" alt="" />
+<img src="Capstone Project/image009.png" class="img-responsive" alt="" />
 
 An android app was also created and can be found by clicking this **[Link](https://play.google.com/store/apps/details?id=tartanrehab.timeoutbutton&hl=en).** This application was my focus on the project along with research and circuit design. The application will detect the BLE IC when the prototype is plugged in and will provide the option to connect. Once connected, a trainer could trigger an alarm or stop the machine. During testing, it was found that the machines could take up to a meter to stop at top speed; however, this also depended on the manufacturer and the controller's programming. This means that the deceleration of each machine would require a technician to alter the programming which is specific to each manufacturer. Once stopped and the danger averted, the prototype automatically returns the control to the machine's user to operate as normal.
 
