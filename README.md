@@ -28,12 +28,6 @@ Other deliverables were to create a working prototype, test its performance, and
 <img src="Capstone Project/image003.png">
 </p>
 <p align="center"> 
-<img src="Capstone Project/image007.png">
-</p>
-<p align="center"> 
-<img src="Capstone Project/image005.png">
-</p>
-<p align="center"> 
 <img src="Capstone Project/image009.png">
 </p>
 
@@ -41,4 +35,7 @@ An android app was also created and can be found by clicking this **[Link](https
 
 In conclusion, my team developed a way for a technician or parent to prevent accident or injury to a powered wheelchair or scooter user. My team created a more compact (6x3x3 cubic centimeters), cheaper ($30), and more convenient (Android app). During this project, I became more experienced in the development process, project management, and greatly increased my programming skills beyond what I'd previously thought possible for myself. My team's product has significant potential for the future and could eventually be deployed to rehabilitation centres around the world. I look forward to the opportunity to complete similar projects that will allow me to improve my skills and help improve the safety of people’s lives.
 
+### Remarks
+
+This page was last updated 8/1/2017 and is not yet complete. 
 
