@@ -4,7 +4,7 @@ Thank you for visiting my portfolio. _This is not intended to be a comprehenisiv
 
 ### My C# Projects
 
-**Talking Clock:** [Link](https://github.com/joshglenen/2017-Projects/blob/master/Talk_Clk_Portable.zip)
+**Talking Clock:** [Link](https://github.com/joshglenen/Portfolio/blob/Talking-Clock/Downloads/Talk_Clk_Portable.zip)
   
 `A simple lightweight system tray application for Windows 10 that announces the hour every hour.`
 
