@@ -4,7 +4,7 @@ Thank you for visiting my portfolio. _This is not intended to be a comprehensive
 
 ### My C# Projects
 
-**Talking Clock:** [Link](https://github.com/joshglenen/Portfolio/blob/master/Downloads/Talk_Clk_Portable.zip)
+**Talking Clock:** [Link](https://github.com/joshglenen/Talking-Clock/)
   
 `A simple lightweight system tray application for Windows 10 that announces the hour every hour.`
 
@@ -16,7 +16,7 @@ Thank you for visiting my portfolio. _This is not intended to be a comprehensive
 
 `A simple card game that `
 
-**Black Jack:** [Redoing UI](https://example.com)
+**Black Jack:** [Link](https://github.com/joshglenen/BlackJack/)
 
 `The first game I designed using basic programming principals. Very Rough but functional.`
 
