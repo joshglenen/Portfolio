@@ -1,6 +1,6 @@
 ## Welcome
 
-Thank you for visiting my portfolio. _This is not intended to be a comprehensive resume._ Here I will upload open source projects I have completed as well as describe my past accomplishments. If you would like to know more about me or view my resume, visit [LinkedIn](https://www.linkedin.com/in/joshglenen/) or [email me.](mailto:josh.glenen.contact@gmail.com)
+Thank you for visiting my portfolio. _This is not intended to be a comprehensive resume._ I will upload the projects I have completed since my graduation here. If you would like to know more about me or view my resume, visit [LinkedIn](https://www.linkedin.com/in/joshglenen/) or [email me.](mailto:josh.glenen.contact@gmail.com)
 
 ### My C# Projects
 
@@ -8,13 +8,13 @@ Thank you for visiting my portfolio. _This is not intended to be a comprehensive
   
 `A simple lightweight system tray application for Windows 10 that announces the hour every hour.`
 
-**Notify Me:** [In Final Stages](https://example.com)
+**Notify Me:** [In Final Stages](https://github.com/joshglenen/Notify-Me/)
 
 `Another system tray application that builds off of "Talking Clock". This low resource application allows you to create custom and       recurring notifications for Windows 10 with ease.`
 
-**Texas Hold'em:** [Redoing UI](https://example.com)
+**Texas Hold'em:** [Redoing UI](https://github.com/joshglenen/)
 
-`A simple card game that `
+`A more complex card game. `
 
 **Black Jack:** [Link](https://github.com/joshglenen/BlackJack/)
 
