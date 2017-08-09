@@ -8,13 +8,13 @@ Thank you for visiting my portfolio. _This is not intended to be a comprehensive
   
 `A simple lightweight system tray application for Windows 10 that announces the hour every hour.`
 
-**Notify Me:** [In Final Stages](https://github.com/joshglenen/Notify-Me/)
+**Notify Me:** [Unfinished](https://github.com/joshglenen/Notify-Me/)
 
 `Another system tray application that builds off of "Talking Clock". This low resource application allows you to create custom and       recurring notifications for Windows 10 with ease.`
 
-**Texas Hold'em:** [Redoing UI](https://github.com/joshglenen/)
+**Texas Hold'em:** [Unfinished](https://github.com/joshglenen/TexasHoldEm/)
 
-`A more complex card game. `
+`A more complex card game being recoded from it's initial state. Plan to create a more meaningful GUI and preform more complex computations.`
 
 **Black Jack:** [Link](https://github.com/joshglenen/BlackJack/)
 
@@ -44,5 +44,5 @@ In conclusion, my team developed a way for a technician or parent to prevent acc
 
 ### Remarks
 
-This page was last updated 8/1/2017 and is not yet complete. 
+This page was last updated 8/9/2017 and is not yet complete. 
 
