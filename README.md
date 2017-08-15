@@ -18,7 +18,13 @@ Thank you for visiting my portfolio. _This is not intended to be a comprehensive
 
 **Black Jack:** [Link](https://github.com/joshglenen/BlackJack/)
 
-`The first game I designed using basic programming principals. Very Rough but functional.`
+`The first game I designed using basic programming principals.`
+
+### My Python
+
+**Movie Rating Recalculator:** [Link](https://github.com/joshglenen/Rating-Recalculator/)
+
+`A python script that retrieves the ratings of a movie or tv show from imdb.com and recalculates the ratings. Ratings are adjusted to remove the impact of users that purposly give the highest or lowest possible score in order to change the average.`
 
 ### My Capstone Project
 
