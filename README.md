@@ -1,6 +1,6 @@
 ## Welcome
 
-Thank you for visiting my code portfolio. _This is not a resume._ I will link the open source projects I have completed since my graduation while I extend my knowledge and improve my skills. I am currently looking for work as an electrical or software engineer. Feel free to visit my [LinkedIn](https://www.linkedin.com/in/joshglenen/) or [email me.](mailto:josh.glenen.contact@gmail.com)
+Thank you for visiting my code portfolio. I will link the open source projects I have completed since my graduation while I extend my knowledge and improve my skills. I am currently looking for work as an electrical or software engineer. [Here is my resume.](https://github.com/joshglenen/Portfolio/blob/master/images/Resume%20of%20Josh%20Glenen.pdf) Feel free to visit my [LinkedIn](https://www.linkedin.com/in/joshglenen/) or [email me](mailto:josh.glenen.contact@gmail.com) for more information.
 
 ### My C# Applications
 
@@ -37,12 +37,11 @@ Other deliverables were to create a working prototype, test its performance, and
 
 <p align="center"> 
 <img src="images/image001.png">
-</p>
-<p align="center"> 
+</br>
 <img src="images/image003.png">
-</p>
-<p align="center"> 
+</br>
 <img src="images/image009.png">
+</br>
 </p>
 
 An android app was also created and can be found by clicking this **[Link](https://play.google.com/store/apps/details?id=tartanrehab.timeoutbutton&hl=en).** This application was my focus on the project along with research and circuit design. The application will detect the BLE IC when the prototype is plugged in and will provide the option to connect. Once connected, a trainer could trigger an alarm or stop the machine. During testing, it was found that the machines could take up to 1.5 seconds to stop which means that our product is only effective below maximum speeds. 
