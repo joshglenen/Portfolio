@@ -1,26 +1,27 @@
 ## Welcome
 
-Thank you for visiting my portfolio. _This is not intended to be a comprehensive resume._ I will upload the projects I have completed since my graduation here. If you would like to know more about me or view my resume, visit [LinkedIn](https://www.linkedin.com/in/joshglenen/) or [email me.](mailto:josh.glenen.contact@gmail.com)
+Thank you for visiting my code portfolio. _This is not a resume._ I will link the open source projects I have completed since my graduation while I extend my knowledge and improve my skills. I am currently looking for work as an electrical or software engineer. Feel free to visit my [LinkedIn](https://www.linkedin.com/in/joshglenen/) or [email me.](mailto:josh.glenen.contact@gmail.com)
 
-### My C# Projects
+### My C# Applications
 
 **Talking Clock:** [Link](https://github.com/joshglenen/Talking-Clock/)
   
 `A simple lightweight system tray application for Windows 10 that announces the hour every hour.`
 
-**Notify Me:** [Unfinished](https://github.com/joshglenen/Notify-Me/)
+**Notify Me:** [Link](https://github.com/joshglenen/Notify-Me/)
 
 `Another system tray application that builds off of "Talking Clock". This low resource application allows you to create custom and       recurring notifications for Windows 10 with ease.`
 
-**Texas Hold'em:** [Unfinished](https://github.com/joshglenen/TexasHoldEm/)
-
-`A more complex card game being recoded from it's initial state. Plan to create a more meaningful GUI and preform more complex computations.`
-
 **Black Jack:** [Link](https://github.com/joshglenen/BlackJack/)
 
-`The first game I designed using basic programming principals.`
+`The first program I wrote using c# and the first game I finished developing.`
 
-### My Python
+**Texas Hold'em:** [Link](https://github.com/joshglenen/TexasHoldEm/)
+
+`A more complex card game that was built off the principals learned from my Black Jack app. Currently expanding to allow for both visual assets and probability calculations within the application.`
+
+
+### My Python Web App
 
 **Movie Rating Recalculator:** [Link](https://github.com/joshglenen/Rating-Recalculator/)
 
@@ -44,11 +45,11 @@ Other deliverables were to create a working prototype, test its performance, and
 <img src="images/image009.png">
 </p>
 
-An android app was also created and can be found by clicking this **[Link](https://play.google.com/store/apps/details?id=tartanrehab.timeoutbutton&hl=en).** This application was my focus on the project along with research and circuit design. The application will detect the BLE IC when the prototype is plugged in and will provide the option to connect. Once connected, a trainer could trigger an alarm or stop the machine. During testing, it was found that the machines could take up to 1.5 seconds to stop which means that our product is only effective below maximum speeds. Once stopped and the danger averted, the prototype automatically returns the control to the machine's user to operate as normal.
+An android app was also created and can be found by clicking this **[Link](https://play.google.com/store/apps/details?id=tartanrehab.timeoutbutton&hl=en).** This application was my focus on the project along with research and circuit design. The application will detect the BLE IC when the prototype is plugged in and will provide the option to connect. Once connected, a trainer could trigger an alarm or stop the machine. During testing, it was found that the machines could take up to 1.5 seconds to stop which means that our product is only effective below maximum speeds. 
 
 In conclusion, my team developed a way for a technician or parent to prevent accident or injury to a powered wheelchair or scooter user. My team created a more compact (6x3x3 cubic centimeters), cheaper ($30), and more convenient (Android app). During this project, I became more experienced in the development process, project management, and greatly increased my programming skills beyond what I'd previously thought possible for myself. My team's product has significant potential for the future and could eventually be deployed to rehabilitation centres around the world. I look forward to the opportunity to complete similar projects that will allow me to improve my skills and help improve the safety of people’s lives.
 
 ### Remarks
 
-This page was last updated 8/9/2017 and is not yet complete. 
+Last updated 8/28/2017
 
