@@ -42,11 +42,12 @@ Other deliverables were to create a working prototype, test its performance, and
 
 <p align="center"> 
 <img src="images/image001.png">
-</br>
+</p>
+<p align="center"> 
 <img src="images/image003.png">
-</br>
+</p>
+<p align="center"> 
 <img src="images/image009.png">
-</br>
 </p>
 
 An android app was also created and can be found by clicking this **[Link](https://play.google.com/store/apps/details?id=tartanrehab.timeoutbutton&hl=en).** This application was my focus on the project along with research and circuit design. The application will detect the BLE IC when the prototype is plugged in and will provide the option to connect. Once connected, a trainer could trigger an alarm or stop the machine. During testing, it was found that the machines could take up to 1.5 seconds to stop which means that our product is only effective below maximum speeds. 
