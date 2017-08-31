@@ -2,30 +2,35 @@
 
 Thank you for visiting my code portfolio. I will link the open source projects I have completed since my graduation while I extend my knowledge and improve my skills. I am currently looking for work as an electrical or software engineer. [Here is my resume.](https://github.com/joshglenen/Portfolio/blob/master/images/Resume%20of%20Josh%20Glenen.pdf) Feel free to visit my [LinkedIn](https://www.linkedin.com/in/joshglenen/) or [email me](mailto:josh.glenen.contact@gmail.com) for more information.
 
+
+
+### My Python Applications
+
+**Movie Rating Recalculator:** [Link to website](https://raterecal.herokuapp.com/) / [Source](https://github.com/joshglenen/Rating-Recalculator/)
+
+`A python web app that retrieves the ratings of a movie or tv show from imdb.com and recalculates the ratings. Ratings are adjusted to remove the impact of users that purposly give the highest or lowest possible score in order to manuipulate the average.`
+
+
+
 ### My C# Applications
 
-**Talking Clock:** [Link](https://github.com/joshglenen/Talking-Clock/)
+**Talking Clock:** [Source](https://github.com/joshglenen/Talking-Clock/)
   
-`A simple lightweight system tray application for Windows 10 that announces the hour every hour.`
+`A simple lightweight system tray application for Windows 10 that announces the hour every hour. Final.`
 
-**Notify Me:** [Link](https://github.com/joshglenen/Notify-Me/)
+**Notify Me:** [Source](https://github.com/joshglenen/Notify-Me/)
 
-`Another system tray application that builds off of "Talking Clock". This low resource application allows you to create custom and       recurring notifications for Windows 10 with ease.`
+`Another system tray application that builds off of "Talking Clock". This low resource application allows you to create custom and       recurring notifications for Windows 10 with ease. Still in development.`
 
-**Black Jack:** [Link](https://github.com/joshglenen/BlackJack/)
+**Black Jack:** [Source](https://github.com/joshglenen/BlackJack/)
 
-`The first program I wrote using c# and the first game I finished developing.`
+`The first program I wrote using c# and the first game I finished developing. Final.`
 
-**Texas Hold'em:** [Link](https://github.com/joshglenen/TexasHoldEm/)
+**Texas Hold'em:** [Source](https://github.com/joshglenen/TexasHoldEm/)
 
-`A more complex card game that was built off the principals learned from my Black Jack app. Currently expanding to allow for both visual assets and probability calculations within the application.`
+`A more complex card game that was built off the principals learned from my Black Jack app. Currently expanding to allow for both visual assets and probability calculations within the application. Still in development.`
 
 
-### My Python Web App
-
-**Movie Rating Recalculator:** [Link](https://github.com/joshglenen/Rating-Recalculator/)
-
-`A python script that retrieves the ratings of a movie or tv show from imdb.com and recalculates the ratings. Ratings are adjusted to remove the impact of users that purposly give the highest or lowest possible score in order to change the average.`
 
 ### My Capstone Project
 
