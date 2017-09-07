@@ -1,38 +1,38 @@
 ## Welcome
 
-Thank you for visiting my code portfolio. I will link the open source projects I have completed since my graduation while I extend my knowledge and improve my skills. I am currently looking for work as an electrical or software engineer. [Here is my resume.](https://github.com/joshglenen/Portfolio/blob/master/images/Resume%20of%20Josh%20Glenen.pdf) Feel free to visit my [LinkedIn](https://www.linkedin.com/in/joshglenen/) or [email me](mailto:josh.glenen.contact@gmail.com) for more information.
+Thank you for visiting my portfolio. I will link the open source projects I have completed since my graduation while I extend my knowledge and improve my skills. I am currently looking for work as an electrical/software engineer. [Here is my resume.](https://github.com/joshglenen/Portfolio/blob/master/images/Resume%20of%20Josh%20Glenen.pdf) Feel free to visit my [LinkedIn](https://www.linkedin.com/in/joshglenen/) or [email me](mailto:josh.glenen.contact@gmail.com) for more information.
 
 
 
-### My Python Applications
+### Python Applications
 
 **Movie Rating Recalculator:** [Link to website](https://raterecal.herokuapp.com/) / [Source](https://github.com/joshglenen/Rating-Recalculator/)
 
-`A python web app that retrieves the ratings of a movie or tv show from imdb.com and recalculates the ratings. Ratings are adjusted to remove the impact of users that purposly give the highest or lowest possible score in order to manuipulate the average.`
+`A python web app that retrieves the ratings of a movie or tv show from imdb.com and recalculates the ratings. Ratings are adjusted to remove the impact of users that purposly give the highest or lowest possible score in order to manuipulate the average. Plan to create a visualization of the data, to add a recommendation based on user preferences, and to sample reviews from more sources.`
 
 
 
-### My C# Applications
+### C# Applications
 
 **Talking Clock:** [Source](https://github.com/joshglenen/Talking-Clock/)
   
-`A simple lightweight system tray application for Windows 10 that announces the hour every hour. Final.`
+`A simple lightweight system tray application for Windows 10 that announces the hour every hour.`
 
 **Notify Me:** [Source](https://github.com/joshglenen/Notify-Me/)
 
-`Another system tray application that builds off of "Talking Clock". This low resource application allows you to create custom and       recurring notifications for Windows 10 with ease. Still in development.`
+`Another system tray application that builds off of "Talking Clock". This low resource application allows you to create custom and       recurring notifications for Windows 10 with ease. Anticipated finish time: September 30th.`
 
 **Black Jack:** [Source](https://github.com/joshglenen/BlackJack/)
 
-`The first program I wrote using c# and the first game I finished developing. Final.`
+`The first program I wrote using c# and the first game I finished developing.`
 
 **Texas Hold'em:** [Source](https://github.com/joshglenen/TexasHoldEm/)
 
-`A more complex card game that was built off the principals learned from my Black Jack app. Currently expanding to allow for both visual assets and probability calculations within the application. Still in development.`
+`A more complex card game that was built off the principals learned from my Black Jack app. Currently expanding to allow for both visual assets and probability calculations within the application. Anticipated finish time: September 11th.`
 
 
 
-### My Capstone Project
+### Capstone Project
 
 My capstone project was "Improving the Safety of Powered Wheelchairs and Scooters." Throughout the 2016-2017 year, I studied and learned the principals on powered wheelchair controllers, Bluetooth Low Energy, low power electronics (including power supplies, beacons, RFID, WIFI), 3D printing, Android development, antenna design, and project management. I worked with my team members to develop our client's need into a fully functioning and cheaply reproducible prototype. We were recruited by our client to provide a means for trainers or parents of powered wheelchair and scooter patients to have control of the machines from a distance. Our product would improve the lives of both trainers and patients by reducing accidents and injuries that would otherwise be avoidable.
 
