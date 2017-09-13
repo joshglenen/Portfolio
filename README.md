@@ -8,7 +8,7 @@ Thank you for visiting my portfolio. I will link the open source projects I have
 
 **Movie Rating Recalculator:** [Link to website](https://raterecal.herokuapp.com/) / [Source](https://github.com/joshglenen/Rating-Recalculator/)
 
-`A python web app that retrieves the ratings of a movie or tv show from imdb.com and recalculates the ratings. Ratings are adjusted to remove the impact of users that purposly give the highest or lowest possible score in order to manuipulate the average. Plan to create a visualization of the data, to add a recommendation based on user preferences, and to sample reviews from more sources.`
+`A python web app that retrieves the ratings of a movie or tv show from imdb.com and recalculates the ratings. Ratings are adjusted to remove the impact of users that purposly give the highest or lowest possible score in order to manuipulate the average. Plan to create a better visualization of the data, to add an automatic recommendation based on user preferences, and to sample reviews from more web sources.`
 
 
 
@@ -16,20 +16,19 @@ Thank you for visiting my portfolio. I will link the open source projects I have
 
 **Talking Clock:** [Source](https://github.com/joshglenen/Talking-Clock/)
   
-`A simple lightweight system tray application for Windows 10 that announces the hour every hour.`
-
-**Notify Me:** [Source](https://github.com/joshglenen/Notify-Me/)
-
-`Another system tray application that builds off of "Talking Clock". This low resource application allows you to create custom and       recurring notifications for Windows 10 with ease.`
-
-**Black Jack:** [Source](https://github.com/joshglenen/BlackJack/)
-
-`The first program I wrote using c# and the first game I finished developing.`
+`A simple lightweight system tray application for Windows 10 that announces the hour every hour. Created while learning about c# app development.`
 
 **Texas Hold'em:** [Source](https://github.com/joshglenen/TexasHoldEm/)
 
-`A more complex card game that was built off the principals learned from my Black Jack app. Currently expanding to allow for both visual assets and probability calculations within the application.`
+`A complex card game that was built off the principals learned from my Black Jack app. Currently expanding to allow for both visual assets and probability calculations within the application. Current design is to train an individual new to the game to understand the probabilities that govern player choices.`
 
+**Notify Me:** [Source](https://github.com/joshglenen/Notify-Me/)
+
+`Another system tray application that builds off of "Talking Clock". This low resource application allows you to create custom and       recurring notifications for Windows 10 with ease. Currently in development.`
+
+**Black Jack:** [Source](https://github.com/joshglenen/BlackJack/)
+
+`A simple program using c# and the first Windows application I created.`
 
 
 ### Capstone Project
