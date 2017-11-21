@@ -8,7 +8,9 @@ Thank you for visiting my portfolio. I will link the open source projects I have
 
 **Movie Rating Recalculator:** [Link to website](https://raterecal.herokuapp.com/) / [Source](https://github.com/joshglenen/Rating-Recalculator/)
 
-`A python web app that retrieves the ratings of a movie or tv show from imdb.com and recalculates the ratings. Ratings are adjusted to remove the impact of users that purposly give the highest or lowest possible score in order to manuipulate the average. Plan to create a better visualization of the data, to add an automatic recommendation based on user preferences, and to sample reviews from more web sources.`
+`A python web app that retrieves the ratings of a movie or tv show from imdb.com and recalculates the ratings. Ratings are adjusted to remove the impact of users that purposly give the highest or lowest possible score in order to manuipulate the average. Future plans involve creating a browser extention to make the process faster and remove the need for the slow free-dynomos provided by heroku.
+
+Updated 2017-11-21 to work with the most recent IMDB iteration.`
 
 
 
@@ -20,11 +22,11 @@ Thank you for visiting my portfolio. I will link the open source projects I have
 
 **Texas Hold'em:** [Source](https://github.com/joshglenen/TexasHoldEm/)
 
-`A complex card game that was built off the principals learned from my Black Jack app. Currently expanding to allow for both visual assets and probability calculations within the application. Current design is to train an individual new to the game to understand the probabilities that govern player choices.`
+`A complex card game that was built off the principals learned from my Black Jack app. Currently expanding to allow for both visual assets and probability calculations within the application. Current design is to train an individual new to the game to understand the probabilities that govern player choices. Still in development.`
 
 **Notify Me:** [Source](https://github.com/joshglenen/Notify-Me/)
 
-`Another system tray application that builds off of "Talking Clock". This low resource application allows you to create custom and       recurring notifications for Windows 10 with ease. Currently in development.`
+`Another system tray application that builds off of "Talking Clock". This low resource application allows you to create custom and       recurring notifications for Windows 10 with ease. Currently discontinued due to lack of potential interest.`
 
 **Black Jack:** [Source](https://github.com/joshglenen/BlackJack/)
 
@@ -52,5 +54,5 @@ In conclusion, my team developed a way for a technician or parent to prevent acc
 
 ### Remarks
 
-Last updated 8/28/2017
+Last updated 2017-11-21
 
