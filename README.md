@@ -8,9 +8,9 @@ Thank you for visiting my portfolio. I will link the open source projects I have
 
 **Movie Rating Recalculator:** [Link to website](https://raterecal.herokuapp.com/) / [Source](https://github.com/joshglenen/Rating-Recalculator/)
 
-`A python web app that retrieves the ratings of a movie or tv show from imdb.com and recalculates the ratings. Ratings are adjusted to remove the impact of users that purposly give the highest or lowest possible score in order to manuipulate the average. Future plans involve creating a browser extention to make the process faster and remove the need for the slow free-dynomos provided by heroku.
+`A python web app that retrieves the ratings of a movie or tv show from imdb.com and recalculates the ratings. Ratings are adjusted to remove the impact of users that purposly give the highest or lowest possible score in order to manuipulate the average.`
 
-Updated 2017-11-21 to work with the most recent IMDB iteration.`
+`Future plans involve creating a browser extention to make the process faster and more convenient as the heroku service currently being used is very slow and often unreliable.`
 
 
 
