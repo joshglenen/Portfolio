@@ -2,36 +2,37 @@
 
 Thank you for visiting my portfolio. I will link the open source projects I have completed since my graduation while I extend my knowledge and improve my skills. I am currently looking for work as an electrical/software engineer. [Here is my resume.](https://github.com/joshglenen/Portfolio/blob/master/images/Resume%20of%20Josh%20Glenen.pdf) Feel free to visit my [LinkedIn](https://www.linkedin.com/in/joshglenen/) or [email me](mailto:josh.glenen.contact@gmail.com) for more information.
 
-
-
 ### Python Applications
 
-**Movie Rating Recalculator:** [Link to website](https://raterecal.herokuapp.com/) / [Source](https://github.com/joshglenen/Rating-Recalculator/)
+**Movie Rating Recalculator:** [Link to web app (slow)](https://raterecal.herokuapp.com/) / [Source files](https://github.com/joshglenen/Rating-Recalculator/)
 
 `A python web app that retrieves the ratings of a movie or tv show from imdb.com and recalculates the ratings. Ratings are adjusted to remove the impact of users that purposly give the highest or lowest possible score in order to manuipulate the average.`
 
 `Future plans involve creating a browser extention to make the process faster and more convenient as the heroku service currently being used is very slow and often unreliable.`
 
-
-
 ### C# Applications
 
-**Talking Clock:** [Source](https://github.com/joshglenen/Talking-Clock/)
+**Texas Hold'em:** [Source files](https://github.com/joshglenen/TexasHoldEm/)
+
+`A single player card game designed to teach a player the rules of the game along with the probabilities that govern different outcomes. Features a complete GUI, a simple AI algorithm, a leaderboard system, and a back-end that can easily be expanded to allow additional card game types.`
+
+**Talking Clock:** [Source files](https://github.com/joshglenen/Talking-Clock/)
   
 `A simple lightweight system tray application for Windows 10 that announces the hour every hour. Created while learning about c# app development.`
 
-**Texas Hold'em:** [Source](https://github.com/joshglenen/TexasHoldEm/)
+**Black Jack:** [Source files](https://github.com/joshglenen/BlackJack/)
 
-`A complex card game that was built off the principals learned from my Black Jack app. Currently expanding to allow for both visual assets and probability calculations within the application. Current design is to train an individual new to the game to understand the probabilities that govern player choices. Still in development.`
+`A very simple Windows program created using c#. My first c# program.`
 
-**Notify Me:** [Source](https://github.com/joshglenen/Notify-Me/)
+**Notify Me:** [Source files](https://github.com/joshglenen/Notify-Me/)
 
-`Another system tray application that builds off of "Talking Clock". This low resource application allows you to create custom and       recurring notifications for Windows 10 with ease. Currently discontinued due to lack of potential interest.`
+`A complex system tray application that builds off of my earlier work. This low resource application will allow you to create custom and recurring notifications for Windows 10 with ease. Currently not being developed but may complete in the future.`
 
-**Black Jack:** [Source](https://github.com/joshglenen/BlackJack/)
+### C++ Scripts
 
-`A simple program using c# and the first Windows application I created.`
+**Project Echo:** [Source files](https://github.com/joshglenen/Project-Echo/)
 
+`A c++ script that will eventually be able to determine the location of a sound's origin based on the input of two microphones embedded in a robotic head similar to the human ears. Still early in development as the fft is much more difficult to implement in c++ than it is in python, MatLab, and LabView.`
 
 ### Capstone Project
 
