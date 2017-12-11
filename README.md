@@ -2,6 +2,26 @@
 
 Thank you for visiting my portfolio. I will link the open source projects I have completed since my graduation while I extend my knowledge and improve my skills. I am currently looking for work as an electrical/software engineer. [Here is my resume.](https://github.com/joshglenen/Portfolio/blob/master/images/Resume%20of%20Josh%20Glenen.pdf) Feel free to visit my [LinkedIn](https://www.linkedin.com/in/joshglenen/) or [email me](mailto:josh.glenen.contact@gmail.com) for more information.
 
+
+
+### C# Applications
+
+**Texas Hold'em:** [Download](https://github.com/joshglenen/TexasHoldEm/releases) / [Source files](https://github.com/joshglenen/TexasHoldEm/)
+
+`A single player card game designed to teach a player the rules of the game along with the probabilities that govern different outcomes. Features a complete GUI, a simple AI algorithm, a leaderboard system, and a back-end that can easily be expanded to allow additional card game types.`
+
+**Talking Clock:** [Download](https://github.com/joshglenen/Talking-Clock/releases)
+  
+`A simple lightweight system tray application for Windows 10 that announces the hour every hour. Created while learning about c# app development.`
+
+**Black Jack:** [Download](https://github.com/joshglenen/BlackJack/releases)
+
+`A very simple Windows program created using c#. My first c# program.`
+
+**Notify Me:** [Source files](https://github.com/joshglenen/Notify-Me/)
+
+`A complex system tray application that builds off of my earlier work. This low resource application will allow you to create custom and recurring notifications for Windows 10 with ease. Currently not being developed but may complete in the future.`
+
 ### Python Applications
 
 **Movie Rating Recalculator:** [Link to web app (slow)](https://raterecal.herokuapp.com/) / [Source files](https://github.com/joshglenen/Rating-Recalculator/)
@@ -9,24 +29,6 @@ Thank you for visiting my portfolio. I will link the open source projects I have
 `A python web app that retrieves the ratings of a movie or tv show from imdb.com and recalculates the ratings. Ratings are adjusted to remove the impact of users that purposly give the highest or lowest possible score in order to manuipulate the average.`
 
 `Future plans involve creating a browser extention to make the process faster and more convenient as the heroku service currently being used is very slow and often unreliable.`
-
-### C# Applications
-
-**Texas Hold'em:** [Source files](https://github.com/joshglenen/TexasHoldEm/)
-
-`A single player card game designed to teach a player the rules of the game along with the probabilities that govern different outcomes. Features a complete GUI, a simple AI algorithm, a leaderboard system, and a back-end that can easily be expanded to allow additional card game types.`
-
-**Talking Clock:** [Source files](https://github.com/joshglenen/Talking-Clock/)
-  
-`A simple lightweight system tray application for Windows 10 that announces the hour every hour. Created while learning about c# app development.`
-
-**Black Jack:** [Source files](https://github.com/joshglenen/BlackJack/)
-
-`A very simple Windows program created using c#. My first c# program.`
-
-**Notify Me:** [Source files](https://github.com/joshglenen/Notify-Me/)
-
-`A complex system tray application that builds off of my earlier work. This low resource application will allow you to create custom and recurring notifications for Windows 10 with ease. Currently not being developed but may complete in the future.`
 
 ### C++ Scripts
 
